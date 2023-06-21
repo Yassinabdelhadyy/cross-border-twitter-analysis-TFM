@@ -1,0 +1,6 @@
+## Cross Border Twitter Analysis: Identifying International Customer Interest
+
+<p style ="text-align: justify;">
+The food sector is about $2,323.29 billion, however the vegan food market only accounts for 1% of that total. Social media, especially online communities, is an effective tool for connecting businesses with their target market. Utilizing social media can help startups grow into new markets and make educated judgments. This study uses topic modeling on Twitter data to find potential consumers from a Spanish company that operates in the teritory of Spain to Germany. The research design entails gathering tweets from the followers of the Spanish company and subjecting them to topic modeling methods of analysis. For contrast, the tweets from Berlin's SBahnBerlin are also examined. The data is processed, including lemmatization, translation, cleaning, and encryption of sensitive material. The parallels between the followers of the Spanish company and the followers of SBahnBerlin are examined through topic modeling using BERTopic. The drawbacks include dependency on processing power, noise in Twitter data, and a lack of contextual awareness. The study's findings, which include 199 tweets from SBahnBerlin followers and 123 Berlin users interested in veganism, point to low possible commercial opportunities.
+
+</p>
